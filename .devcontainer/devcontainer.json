@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {gh repo clone blockcypher/node-client/6809ae35257047d9b2779f27e32609b9
+  }
+}
